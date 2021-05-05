@@ -2,11 +2,11 @@
 
 Index: [HOME](../../../../) / [VGGFACE](../../) / [VGG16](../) / label 164
 
-Red numbers denote the target confidence. For the white-box inversion, we run with a batch size of 8. For the black-box inversion, AMI only returns 1 image so we only generates 1 image.
+Red numbers denote the target confidence. For the white-box inversion, we run with a batch size of 8. For the black-box inversion, AMI only returns 1 image so we only generate 1 image.
 
 ### Target Person
 
-8 images with the largest file size from the training data
+8 images of the target person with the largest file size from VGGFACE
 
 ![Target person](gt.png)
 
