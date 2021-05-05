@@ -1,8 +1,8 @@
 ## ResNet50 pre-trained on VGGFACE2, label 18
 
-Index: [HOME](../../../../) / [VGGFACE2](../../) / [ResNet50](../)
+Index: [HOME](../../../../) / [VGGFACE2](../../) / [ResNet50](../) / label 18
 
-### Target person
+### Target Person
 
 ![Target person](gt.png)
 
