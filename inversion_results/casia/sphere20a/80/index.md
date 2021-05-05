@@ -2,7 +2,11 @@
 
 Index: [HOME](../../../../) / [CASIA](../../) / [SphereFace](../) / label 80
 
+Red numbers denote the target confidence. For the white-box inversion, we run with a batch size of 8. For the black-box inversion, AMI only returns 1 image so we only generates 1 image.
+
 ### Target Person
+
+8 images with the largest file size from the training data
 
 ![Target person](gt.png)
 
