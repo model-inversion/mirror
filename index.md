@@ -6,4 +6,4 @@ This repository contains more results of our model inversion approach for anonym
 
 - [VGGFACE2](inversion_results/vggface2/)
    - [ResNet50](inversion_results/vggface2/resnet50/)
-   - [Inception Resnet (V1)](inversion_results/vggface2/inceptionrnv1/)
+   - [Inception Resnet (V1)](inversion_results/vggface2/inception_resnetv1_vggface2/)
