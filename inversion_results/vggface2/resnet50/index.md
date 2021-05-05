@@ -1,6 +1,6 @@
 ## ResNet50 pre-trained on VGGFACE2
 
-Index: [HOME](../../) | [{dataset_name}](../)
+Index: [HOME](../../../) / [VGGFACE2](../)
 
 We inverted 100 labels using GMI / PGGAN / MIRROR (ours) in the white-box settings and using AMI / MIRROR (ours) in the black-box settings. Click the following link to see the results of each label.
 

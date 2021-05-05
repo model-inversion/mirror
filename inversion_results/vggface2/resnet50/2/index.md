@@ -1,6 +1,6 @@
 ## ResNet50 pre-trained on VGGFACE2, label 2
 
-Index: [HOME](../../../) | [{dataset_name}](../../) | [{arch_name}](../)
+Index: [HOME](../../../../) / [VGGFACE2](../../) / [ResNet50](../)
 
 ### Target person
 
@@ -18,10 +18,10 @@ Index: [HOME](../../../) | [{dataset_name}](../../) | [{arch_name}](../)
 
 ![MIRROR white-box](ours_whitebox.png)
 
-#### AMI (black-box)
+### AMI (black-box)
 
-![AMI](ami.png)
+<img src="ami.png" alt="AMI" width="12.5%">
 
 ### MIRROR (ours black-box)
 
-![MIRROR black-box](ours_blackbox.png)
+<img src="ours_blackbox.png" alt="MIRROR black-box" width="12.5%">
