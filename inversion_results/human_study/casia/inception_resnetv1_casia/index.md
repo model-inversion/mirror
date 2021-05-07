@@ -1,0 +1,11 @@
+## Inception Resnet (V1) pre-trained on CASIA
+
+Index: [HOME](../../../../) / [CASIA](../) / Inception Resnet (V1)
+
+[Ours vs DeepInversion (average face)](gt_ours_di_avg/)
+
+[Ours vs GMI](gt_ours_gmi/)
+
+[Ours vs PGGAN (our proposed baseline)](gt_ours_pggan/)
+
+[Ours vs AMI](gt_black_ours_black_ami/)
