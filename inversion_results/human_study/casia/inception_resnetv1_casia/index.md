@@ -1,4 +1,4 @@
-## Inception Resnet (V1) pre-trained on CASIA
+## Human study of Inception Resnet (V1) pre-trained on CASIA
 
 Index: [HOME](../../../../) / [CASIA](../) / Inception Resnet (V1)
 

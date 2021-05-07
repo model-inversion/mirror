@@ -1,4 +1,4 @@
-## SphereFace pre-trained on CASIA
+## Human study of SphereFace pre-trained on CASIA
 
 Index: [HOME](../../../../) / [CASIA](../) / SphereFace
 

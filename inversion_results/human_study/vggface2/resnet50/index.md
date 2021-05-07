@@ -1,4 +1,4 @@
-## ResNet50 pre-trained on VGGFACE2
+## Human study of ResNet50 pre-trained on VGGFACE2
 
 Index: [HOME](../../../../) / [VGGFACE2](../) / ResNet50
 

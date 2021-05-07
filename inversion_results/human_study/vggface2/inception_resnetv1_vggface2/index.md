@@ -1,4 +1,4 @@
-## Inception Resnet (V1) pre-trained on VGGFACE2
+## Human study of Inception Resnet (V1) pre-trained on VGGFACE2
 
 Index: [HOME](../../../../) / [VGGFACE2](../) / Inception Resnet (V1)
 

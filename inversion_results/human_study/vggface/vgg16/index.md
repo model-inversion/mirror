@@ -1,4 +1,4 @@
-## VGG16 pre-trained on VGGFACE
+## Human study of VGG16 pre-trained on VGGFACE
 
 Index: [HOME](../../../../) / [VGGFACE](../) / VGG16
 
