@@ -22,6 +22,10 @@ Red numbers denote the target confidence. For the white-box inversion, we run wi
 
 ![MIRROR white-box](ours_whitebox.png)
 
+### MIRROR (ours white-box with random dropout)
+
+![MIRROR white-box dropout](ours_whitebox_dropout.png)
+
 ### AMI (black-box)
 
 <img src="ami.png" alt="AMI" width="12.5%">
