@@ -10,6 +10,10 @@ Index: [HOME](../../../) / VGGFACE2
 
 [Ours vs PGGAN (our proposed baseline)](resnet50/gt_ours_pggan)
 
+[Ours vs Celeba Top confidence](resnet50/gt_ours_black_knn_celeba)
+
+[Ours vs Sample Top confidence](resnet50/gt_ours_black_knn_sample)
+
 [Ours vs AMI](resnet50/gt_black_ours_black_ami)
 
 [Ablation: W&clip vs Z](resnet50/gt_ours_ablation_z)
@@ -39,5 +43,9 @@ Index: [HOME](../../../) / VGGFACE2
 [Ours vs GMI](inception_resnetv1_vggface2/gt_ours_gmi)
 
 [Ours vs PGGAN (our proposed baseline)](inception_resnetv1_vggface2/gt_ours_pggan)
+
+[Ours vs Celeba Top confidence](inception_resnetv1_vggface2/gt_ours_black_knn_celeba)
+
+[Ours vs Sample Top confidence](inception_resnetv1_vggface2/gt_ours_black_knn_sample)
 
 [Ours vs AMI](inception_resnetv1_vggface2/gt_black_ours_black_ami)

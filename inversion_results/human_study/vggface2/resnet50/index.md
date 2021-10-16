@@ -8,6 +8,10 @@ Index: [HOME](../../../../) / [VGGFACE2](../) / ResNet50
 
 [Ours vs PGGAN (our proposed baseline)](gt_ours_pggan/)
 
+[Ours vs Celeba Top confidence](gt_ours_black_knn_celeba/)
+
+[Ours vs Sample Top confidence](gt_ours_black_knn_sample/)
+
 [Ours vs AMI](gt_black_ours_black_ami/)
 
 [Ablation: W&clip vs Z](gt_ours_ablation_z/)
