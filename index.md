@@ -1,6 +1,8 @@
-## MIRROR: Model Inversion for Deep Learning Network with High Fidelity
+## MIRROR: Model Inversion for Deep Learning Network with High Fidelity (NDSS 2022)
 
-This repository contains more results of our model inversion approach for anonymous review. We will release our system upon publication.
+This repository contains more results of our model inversion approach.
+Please check our [paper](paper/NDSS_2022_Model_Inversion.pdf) and [appendix](paper/NDSS_2022_Model_Inversion_appendix.pdf) for details.
+We will open-source our code soon.
 
 ## Motivation Example
 
