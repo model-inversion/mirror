@@ -2,7 +2,7 @@
 
 This repository contains more results of our model inversion approach.
 Please check our [paper](paper/NDSS_2022_Model_Inversion.pdf) and [appendix](paper/NDSS_2022_Model_Inversion_appendix.pdf) for details.
-Please visit https://github.com/njuaplusplus/mirror for our implementation.
+Please visit [njuaplusplus/mirror](https://github.com/njuaplusplus/mirror) for our implementation.
 
 ## Motivation Example
 
